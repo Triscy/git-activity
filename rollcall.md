@@ -445,5 +445,8 @@ Name, Organization, and (optionally) Contact Info
 
 * Andrew Desrochers, Western New England University
    * Email: ad339122@wne.edu
-   * GitHub: Strauss490
+   * GitHub: Strauss490b
 
+* Kyle Hatten, Western New England University
+   * Email: kyle.hatten@wne.edu
+   * GitHub: Triscy
